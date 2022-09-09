@@ -20,7 +20,7 @@ it is app for current weather & forecast , contain favourite location and can ma
   
 # Screen Record
 
-https://drive.google.com/file/d/1PXCeWJ2OmbN3cpV-egvYoRsXE-M7Kjye/view?usp=sharing
+https://drive.google.com/file/d/1-8qE0Y7M2TDw9uBBgWR12wDc1Zleux1A/view?usp=drivesdk
 
 ## Getting Started
 
